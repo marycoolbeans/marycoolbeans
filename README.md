@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Mary! <br/><a href="https://github.com/marymorkos">Data Science</a> <a href="https://www.linkedin.com/in/marymorkos/">Public Health New Grad</a>
+<h1>Hi, I'm Mary! <br/><a href="https://github.com/marymorkos">Data Science</a> <a href="https://www.linkedin.com/in/marymorkos/">Public Health</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
