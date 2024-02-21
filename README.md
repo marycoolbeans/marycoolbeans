@@ -7,7 +7,7 @@
   - [SDOH Machine Learning]](https://github.com/marycoolbeans/SDOH-Machine-Learning)
  
   - - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SDOH Machine Learning](https://github.com/marycoolbeans/SDOH-Machine-Learning))
 
 <h2> 🤳 Connect with me:</h2>
 
