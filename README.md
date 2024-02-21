@@ -2,11 +2,8 @@
 <h1>Hi, I'm Mary! <br/><a href="https://github.com/marymorkos">Data Science</a> <a href="https://www.linkedin.com/in/marymorkos/">New Grad</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
-
-- <b>SDOH Machine Learning</b>
-  - [SDOH Machine Learning]](https://github.com/marycoolbeans/SDOH-Machine-Learning)
  
-  - - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - - <b>SDOH Machine Learning</b>
   - [SDOH Machine Learning](https://github.com/marycoolbeans/SDOH-Machine-Learning)
 
 <h2> 🤳 Connect with me:</h2>
