@@ -3,7 +3,6 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
  
-  - - <b>SDOH Machine Learning</b>
   - [SDOH Machine Learning](https://github.com/marycoolbeans/SDOH-Machine-Learning)
 
 <h2> 🤳 Connect with me:</h2>
